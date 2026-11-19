@@ -1,0 +1,1 @@
+{"main":"server.js","name":"saas-search-authority","scripts":{"start":"node server.js"},"version":"1.0.0"}
